@@ -1,4 +1,4 @@
-// Bot Discord - 13/12/2025
+// Bot Discord - 16/12/2025
 // Configure seu token na aba de configurações
 
 import { Client, GatewayIntentBits } from 'discord.js';
